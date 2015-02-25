@@ -1,6 +1,8 @@
 pretty-readme
 ===
 
+[![Join the chat at https://gitter.im/chunpu/pretty-readme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chunpu/pretty-readme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
